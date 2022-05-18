@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{3BF3E7B7-C782-4DB7-AC79-1584F5F3DFD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibrary", "CalculatorLibrary\CalculatorLibrary.csproj", "{BC46C308-A439-404F-833B-ACC30D8E2E73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3BF3E7B7-C782-4DB7-AC79-1584F5F3DFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BF3E7B7-C782-4DB7-AC79-1584F5F3DFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BF3E7B7-C782-4DB7-AC79-1584F5F3DFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC46C308-A439-404F-833B-ACC30D8E2E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC46C308-A439-404F-833B-ACC30D8E2E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC46C308-A439-404F-833B-ACC30D8E2E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC46C308-A439-404F-833B-ACC30D8E2E73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
